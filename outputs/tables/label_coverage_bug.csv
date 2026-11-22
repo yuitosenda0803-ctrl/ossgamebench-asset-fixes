@@ -1,0 +1,103 @@
+﻿norm,n,bug,invalid
+bug,61770,True,False
+t: bugfix,3468,True,False
+type: bug,3272,True,False
+error report,2968,True,False
+crash,2907,True,False
+t: bug,1557,True,False
+minor bug,1046,True,False
+category:bug,1045,True,False
+type_bug,888,True,False
+issue: bug,877,True,False
+regression,855,True,False
+trx bug,825,True,False
+type-defect,671,True,False
+og bug,414,True,False
+type-bug,397,True,False
+crash or hang,314,True,False
+status: bug,226,True,False
+kind: bug,203,True,False
+bug report,201,True,False
+t - bug,187,True,False
+engine bug,155,True,False
+type:defect,145,True,False
+bug: unconfirmed,130,True,False
+bug / bugfix,117,True,False
+native bug,116,True,False
+vanilla bug,112,True,False
+type:bug,109,True,False
+category: regression,91,True,False
+game crash,86,True,False
+map bug,82,True,False
+vanilla-bug,67,True,False
+bug fix,66,True,False
+major bug,59,True,False
+type: regression,58,True,False
+kind:bug,57,True,False
+bug-report,56,True,False
+t:bug,54,True,False
+t:regression,53,True,False
+bug: specific spell,46,True,False
+confirmed-bug,43,True,False
+bug: confirmed,42,True,False
+bug 🐛,34,True,False
+bug: engine,33,True,False
+category: crash,33,True,False
+wine-bug,31,True,False
+upstream bug,31,True,False
+dependency bug,31,True,False
+bugfix,25,True,False
+unconfirmed bug,22,True,False
+bug - vanilla,22,True,False
+bug confirmed,20,True,False
+type: 漏洞 bug,20,True,False
+whisky-bug,18,True,False
+bug: replicated,18,True,False
+not our bug,17,True,False
+type: crash,16,True,False
+fun: bug of the year 2022 candidate,15,True,False
+fun: bug of the year 2023 candidate,14,True,False
+fun: bug of the year 2024 candidate,13,True,False
+almost a bug,12,True,False
+kein bug,10,True,False
+g: bug,10,True,False
+wine bugs,9,True,False
+driver bug,9,True,False
+critical x64 bug,8,True,False
+lss-bug,8,True,False
+fun: bug of the year 2021 candidate,8,True,False
+fun: bug of the year 2025 candidate,7,True,False
+crash (player triggered),6,True,False
+blocking bug,6,True,False
+bug: needs replicating,6,True,False
+bug-performance,6,True,False
+other_people_bug,5,True,False
+significant bug,5,True,False
+piskel related issue/bug/feature,5,True,False
+bug_report,5,True,False
+d3dm-bug,4,True,False
+new-bug,4,True,False
+defect,4,True,False
+bugfix/workaround,4,True,False
+3rd-party bug,3,True,False
+not-our-bug,3,True,False
+crash (spontaneous),3,True,False
+esi bug,3,True,False
+update bug,2,True,False
+bug-pc,2,True,False
+bug of content,2,True,False
+osu! bugs,2,True,False
+ci build bug,2,True,False
+qt-bug,2,True,False
+zkb bug,1,True,False
+pygame-crash,1,True,False
+rescaling bug,1,True,False
+meta:bug,1,True,False
+bug: bug,1,True,False
+bug-original-game,1,True,False
+bug-amiga,1,True,False
+bug / 错误,1,True,False
+bug_fix,1,True,False
+official bug,1,True,False
+not-a-bug,1,True,False
+hearthstone-bug,1,True,False

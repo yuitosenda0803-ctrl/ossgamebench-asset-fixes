@@ -1,0 +1,21 @@
+# Python / 環境
+.venv/
+__pycache__/
+*.pyc
+
+# データ本体（OSSGameBench 由来・大容量。取得手順は scripts/00_fetch_dataset.ps1 と 05_fetch_commits.py）
+分析対象データ/
+outputs/*.parquet
+*.tmp
+
+# データセット付属のドキュメント・スクリプト（Zenodo から取得できる第三者の配布物）
+ドキュメント・仕様関連/
+Scripts.zip
+
+# Claude Code の個人設定
+.claude/settings.local.json
+
+# 講義スライド（教員の個人情報を含む）と論文 PDF は載せない
+6th.pdf
+3793302.3793313*.pdf
+submission/

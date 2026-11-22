@@ -1,0 +1,201 @@
+﻿project,number,title,labels,set,url
+magefree/mage,1783,Shadow Lands keep popping up revealed basic land,bug,classified_bug,https://github.com/magefree/mage/issues/1783
+the-tale/the-tale,1948,Проекты: генерируемый артефакт игнориурет предпочтение незаменяемого артефакта,type_bug; comp_game_logic; est_simple,classified_bug,https://github.com/the-tale/the-tale/issues/1948
+tmodloader/tmodloader,973,Cursor hidden in message boxes,Bug; Needs Further Testing; Requestor-Player,classified_bug,https://github.com/tmodloader/tmodloader/issues/973
+siv3d/opensiv3d,837,Base64::Decode 関数のバッファオーバーランの危険性,Type: Bug; v0.6.5,classified_bug,https://github.com/siv3d/opensiv3d/issues/837
+FakeFishGames/Barotrauma,9905,[Modding] Weapon spread can't be increased via RangedSpreadReduction,Bug; Need more info; Code; Modding,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/9905
+skyarkhangel/hardcore-sk,131,Getting this error when ants spawn:,bug,classified_bug,https://github.com/skyarkhangel/hardcore-sk/issues/131
+robosturm/commander_wars,342,Icy Retreat is missing a Mech,bug; fixed/done,classified_bug,https://github.com/robosturm/commander_wars/issues/342
+FakeFishGames/Barotrauma,4585,Spawning cargo in custom named hull throws errors in multiplayer,Bug; Code,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/4585
+caveman2cosmos/caveman2cosmos,330,Barbarian cities can spawn in space tiles (ignoring map category) if hills are present.,bug; dll,classified_bug,https://github.com/caveman2cosmos/caveman2cosmos/issues/330
+FakeFishGames/Barotrauma,1968,[Bug] First bullet from a firearm that uses a magazine/clip does no damage/does nothing at all,Bug; Code,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/1968
+tobymao/18xx,5207,[18Ireland] can't start a new company in phase D/grey,bug; 18Ireland,classified_bug,https://github.com/tobymao/18xx/issues/5207
+vcmi/vcmi,2224,"Tab chatting doesn't work in multiplayer, at least if it's not your turn",bug; client; advmap; multiplayer,classified_bug,https://github.com/vcmi/vcmi/issues/2224
+genaray/arch,207,IndexOutOfRangeException in SparseJaggedArray,bug,classified_bug,https://github.com/genaray/arch/issues/207
+rptools/maptool,3293,[Bug]: Pathfinding can send tokens through unexplored areas.,bug; tested,classified_bug,https://github.com/rptools/maptool/issues/3293
+quaver/quaver,2004,Song time left shows 59:59 briefly before fading into the results screen,Bug; Gameplay,classified_bug,https://github.com/quaver/quaver/issues/2004
+tobymao/18xx,3055,[1867] Game goes to stock round after the three ORs following SR after sale/export of 8 train,bug; 1867,classified_bug,https://github.com/tobymao/18xx/issues/3055
+tobymao/18xx,3185,"[18Mex] Error ""0 is not valid to spend"" on buy of 3' train",bug; 18MEX,classified_bug,https://github.com/tobymao/18xx/issues/3185
+hearthsim/hearthstone-deck-tracker,3262,Secrets sometimes greyed out incorrectly,bug; decktracker,classified_bug,https://github.com/hearthsim/hearthstone-deck-tracker/issues/3262
+RMC-14/RMC-14,4770,XM88 has two examines,Issue: Bug,classified_bug,https://github.com/RMC-14/RMC-14/issues/4770
+CorsixTH/CorsixTH,2515,New cheats menu PR has broken persistence,P1 Critical; bug,classified_bug,https://github.com/CorsixTH/CorsixTH/issues/2515
+endless-sky/endless-sky,8492,Scanning Outfits Seems Excessively Difficult in v0.10.0,bug; duplicate,classified_bug,https://github.com/endless-sky/endless-sky/issues/8492
+angband/angband,3002,"I can't attack while afraid, but mobs won't attack either.",R: invalid; T: bug,classified_bug,https://github.com/angband/angband/issues/3002
+TheXTech/TheXTech,44,Vanilla bug with AutoScroll events,vanilla bug,classified_bug,https://github.com/TheXTech/TheXTech/issues/44
+robosturm/commander_wars,277,"""Great Sea Battle"" is missing from the AW2 campaign",bug; fixed/done,classified_bug,https://github.com/robosturm/commander_wars/issues/277
+bvschaik/julius,440,broken export amount arrows,bug,classified_bug,https://github.com/bvschaik/julius/issues/440
+francois-roseberry/monopoly-js,25,Spinner in trade-ui do not show up anymore,bug,classified_bug,https://github.com/francois-roseberry/monopoly-js/issues/25
+tobymao/18xx,7091,[1817] - Confirm the Market consents to share redemption?,minor bug,classified_bug,https://github.com/tobymao/18xx/issues/7091
+diballesteros/nuzlocke,582,User Submitted Issue: # 303,bug; netlify,classified_bug,https://github.com/diballesteros/nuzlocke/issues/582
+hearthsim/hearthstone-deck-tracker,4565,Wrong version of 'Scavenger's Ingenuity' in deck tracker.,bug,classified_bug,https://github.com/hearthsim/hearthstone-deck-tracker/issues/4565
+bvschaik/julius,738,Augustina 4.0.0.17 does not meet minimum demands,bug,classified_bug,https://github.com/bvschaik/julius/issues/738
+FakeFishGames/Barotrauma,11951,Heavy wrench won't stun the user with insufficient skill,Bug; Design; Low prio,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/11951
+wolvenkit/wolvenkit,1383,Very slow saving and freezing when editing .app files,bug,classified_bug,https://github.com/wolvenkit/wolvenkit/issues/1383
+quaver/quaver,2568,Volume panel does not detect change in mouse location when imgui window is in the same location,Bug; Audio; Input,classified_bug,https://github.com/quaver/quaver/issues/2568
+vcmi/vcmi,4146,Pick 3 gold in hota map 'the devil is in the detail',bug,classified_bug,https://github.com/vcmi/vcmi/issues/4146
+space-wizards/space-station-14,19072,"Medborg can get a free, empty hand.",T: Bugfix; P2: Raised,classified_bug,https://github.com/space-wizards/space-station-14/issues/19072
+re-ss3d/ss3d,985,Store/Take icons not working in ContainerDescriptor,Difficulty: Good first issue :cake:; Bug: Unconfirmed; UI/UX; Containers,classified_bug,https://github.com/re-ss3d/ss3d/issues/985
+FakeFishGames/Barotrauma,12239,Jovian Radiation is completely nullified when wearing a Hazmat Suit,Bug; Code; Design,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/12239
+revolutionary-games/thrive,5640,Moving an organelle with upgrades doesn't correctly display the upgrade visuals on the in-progress moved hex,easy; programming; bug; C#; stage:microbe,classified_bug,https://github.com/revolutionary-games/thrive/issues/5640
+hanabi-live/hanabi-live,1799,Tapping cards in discard/play stacks doesn't work,bug,classified_bug,https://github.com/hanabi-live/hanabi-live/issues/1799
+LostArtefacts/TRX,627,Misaligned bridge in City of Khamoon,TRX bug; TR1,classified_bug,https://github.com/LostArtefacts/TRX/issues/627
+space-wizards/space-station-14,5137,Power cells have no collision when thrown.,T: Bugfix; P2: Raised; D3: Low,classified_bug,https://github.com/space-wizards/space-station-14/issues/5137
+4ian/gdevelop,3932,Expression Builder - object variables not in drop-down list,🐛 bug,classified_bug,https://github.com/4ian/gdevelop/issues/3932
+space-wizards/space-station-14,5514,Rotating a thruster doesn't check for free tile,T: Bugfix; P2: Raised; D3: Low,classified_bug,https://github.com/space-wizards/space-station-14/issues/5514
+robosturm/commander_wars,1039,Player Statistics Screen crashes game,bug; fixed/done; Confirmed,classified_bug,https://github.com/robosturm/commander_wars/issues/1039
+pixijs/pixijs,1119,PIXI v 2.0 -  arc not drawing - & mouse event on button-2 (right button) not firing,🕷 Bug,classified_bug,https://github.com/pixijs/pixijs/issues/1119
+FakeFishGames/Barotrauma,9761,[Unstable] Vote kicking a player then removing the ban via lobby settings results in an immediate re-ban on rejoin,Bug; Code; Networking; Severe; Unstable,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/9761
+tmodloader/tmodloader,3095,Controls not trigger when change IME(Keyboard layout),Bug; Requestor-Player; Benefit - High; Complexity - Medium,classified_bug,https://github.com/tmodloader/tmodloader/issues/3095
+freeorion/freeorion,4297,Game crash to menu on end of turn.,category:bug; status:resolved; component:internal,classified_bug,https://github.com/freeorion/freeorion/issues/4297
+MihailRis/voxelcore,454,BUG,bug; wontfix,classified_bug,https://github.com/MihailRis/voxelcore/issues/454
+FakeFishGames/Barotrauma,11760,Problem with Typhon,Bug; Duplicate; Code,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/11760
+triplea-game/triplea,11143,2.6+14163: ResourceLoader#createPathToImage:183 - java.nio.file.InvalidPathException,Error Report,classified_bug,https://github.com/triplea-game/triplea/issues/11143
+etlegacy/etlegacy,1045,renderer2: Lower clouds speed / fix animation speed,🐞 Bug; P4: Low; cat: client,classified_bug,https://github.com/etlegacy/etlegacy/issues/1045
+magefree/mage,1262,Shallow Grave and Corpse Dance improperly exile creature after becoming new object,bug,classified_bug,https://github.com/magefree/mage/issues/1262
+provenance-emu/provenance,1409,ancooa,bug,classified_bug,https://github.com/provenance-emu/provenance/issues/1409
+hearthsim/hearthstone-deck-tracker,1315,game record do not work every time,bug; stats,classified_bug,https://github.com/hearthsim/hearthstone-deck-tracker/issues/1315
+ZeroK-RTS/Zero-K,3533,Widow fails to deal damage,minor bug; replay,classified_bug,https://github.com/ZeroK-RTS/Zero-K/issues/3533
+LostArtefacts/TRX,3827,Rolling balls can kill Lara in fly mode,TRX bug; Unreleased; TR2; TR1,classified_bug,https://github.com/LostArtefacts/TRX/issues/3827
+jonthysell/mzinga,41,Improve MoveSet perf with HashSet internally,bug,classified_bug,https://github.com/jonthysell/mzinga/issues/41
+thepeacockproject/peacock,441,No unlocks after progression transfer,bug; progression,classified_bug,https://github.com/thepeacockproject/peacock/issues/441
+gemrb/gemrb,1442,GUIREC: attacks per round misprinted,bug; system: GUI,classified_bug,https://github.com/gemrb/gemrb/issues/1442
+ihhub/fheroes2,8855,The Editor doesn't check objects while placing a castle,bug; logic; editor,classified_bug,https://github.com/ihhub/fheroes2/issues/8855
+etlegacy/etlegacy,2621,View shake can make player view go though walls/floors ,🐞 Bug; P3: Normal; cat: mod QAGAME; cat: mod CGAME,classified_bug,https://github.com/etlegacy/etlegacy/issues/2621
+space-wizards/space-station-14,6636,Drone tools mispredict,T: Bugfix; P3: Standard; D3: Low,classified_bug,https://github.com/space-wizards/space-station-14/issues/6636
+tobymao/18xx,7380,18NY unable to lay brown Brooklyn tile,bug; 18NY,classified_bug,https://github.com/tobymao/18xx/issues/7380
+26F-Studio/Techmino,973,mods in replays remain applied after the replay ends,bug,classified_bug,https://github.com/26F-Studio/Techmino/issues/973
+magefree/mage,207,Target required results in dead game if no object can be targeted,bug,classified_bug,https://github.com/magefree/mage/issues/207
+gameservermanagers/linuxgsm,4645,[Bug]: Satisfactory Game Server not starting after clean installation,type: bug; distro: Debian; command: install; command: start; command: update-lgsm; command: restart; game: Satisfactory,classified_bug,https://github.com/gameservermanagers/linuxgsm/issues/4645
+gameservermanagers/linuxgsm,2193,fix_tf2.sh: command not found,type: bug; command: install; game: Team Fortress 2,classified_bug,https://github.com/gameservermanagers/linuxgsm/issues/2193
+triplea-game/triplea,9142,2.5.22294: MapPanel#lambda$paint$8:738 - java.lang.OutOfMemoryError,Error Report,classified_bug,https://github.com/triplea-game/triplea/issues/9142
+InventiveRhythm/fluXis,134,Recursive loading of sub-directories in the file select menu,bug; area:overlays,classified_bug,https://github.com/InventiveRhythm/fluXis/issues/134
+ihhub/fheroes2,5745,"Battle screen, triggered low morale should make other creature with the same speed to act",bug; logic,classified_bug,https://github.com/ihhub/fheroes2/issues/5745
+Crownicles/Crownicles,340,blocage combat,bug,classified_bug,https://github.com/Crownicles/Crownicles/issues/340
+vcmi/vcmi,3565,Hero moves in a saccadic way on adventure map at client side,bug,classified_bug,https://github.com/vcmi/vcmi/issues/3565
+endless-sky/endless-sky,8581,Dissappearing ships,bug; unconfirmed,classified_bug,https://github.com/endless-sky/endless-sky/issues/8581
+space-wizards/space-station-14,27269,Ripley bypasses thief pacifism,T: Bugfix; P1: High; D3: Low; A: Roundflow/Antag; S: Requires Content PR,classified_bug,https://github.com/space-wizards/space-station-14/issues/27269
+PurpleKingdomGames/indigo,25,Bug: Line interception calculation issue,bug,classified_bug,https://github.com/PurpleKingdomGames/indigo/issues/25
+lichess-org/lila,1971,wrong puzzle: http://lichess.org/training/40538,bug,classified_bug,https://github.com/lichess-org/lila/issues/1971
+FakeFishGames/Barotrauma,1374,[Steam Version] Crash when a Player-controlled monster attempts to send text,Bug; Code; Crash; Networking,classified_bug,https://github.com/FakeFishGames/Barotrauma/issues/1374
+nquake/server-linux,10,Latest n greatest version not deployed => errors during installation,bug,classified_bug,https://github.com/nquake/server-linux/issues/10
+openhv/openhv,1058,Scouts are not lifting off after starting matches,bug,classified_bug,https://github.com/openhv/openhv/issues/1058
+ashteki/ashteki,1490,card log should show ultimate snapshot at the correct phase - not current phase,bug; UI; solo,classified_bug,https://github.com/ashteki/ashteki/issues/1490
+provenance-emu/provenance,1346,Game images can show visual anomalies when loading,bug,classified_bug,https://github.com/provenance-emu/provenance/issues/1346
+hearthsim/hearthstone-deck-tracker,2169,GameEvents.OnTurnStart triggered twice for very first turn,bug,classified_bug,https://github.com/hearthsim/hearthstone-deck-tracker/issues/2169
+openra/openra,16868,Replace or remove actors of non-existing players when saving in the editor,Crash; Map Editor,classified_bug,https://github.com/openra/openra/issues/16868
+ryzom/ryzomcore,274,Failed assertion when enabling sound IG under Windows,bug; high priority; nel_sound,classified_bug,https://github.com/ryzom/ryzomcore/issues/274
+openhv/openhv,333,Preferred colour button preview is not updated,bug,classified_bug,https://github.com/openhv/openhv/issues/333
+ja2-stracciatella/ja2-stracciatella,821,Crash to desktop after picking up Tear Gas Grenade in I8 Central SAM,bug,classified_bug,https://github.com/ja2-stracciatella/ja2-stracciatella/issues/821
+provenance-emu/provenance,120,Crash on controller assignment,bug,classified_bug,https://github.com/provenance-emu/provenance/issues/120
+ipodtouch0218/nsmb-mariovsluigi,148,CustomAuth service error: Request Timeout,bug; miscellaneous,classified_bug,https://github.com/ipodtouch0218/nsmb-mariovsluigi/issues/148
+space-wizards/space-station-14,18419,Chat shouldn't duplicate radio messages,T: Bugfix; P2: Raised; D2: Medium,classified_bug,https://github.com/space-wizards/space-station-14/issues/18419
+magefree/mage,363,Sacred Foundry of opponent played with Nightveil Specter asks opponent if he will pay 2 life,bug,classified_bug,https://github.com/magefree/mage/issues/363
+MythicApp/Mythic,76,[BUG] Cannot change Wine bottle for imported local game,bug,classified_bug,https://github.com/MythicApp/Mythic/issues/76
+robosturm/commander_wars,36,Version 5# Map Editor Unit Glitch and HQ Capture Crash,bug; fixed/done,classified_bug,https://github.com/robosturm/commander_wars/issues/36
+gemrb/gemrb,744,Crash on moving TNO in AR1200 ,bug; game: pst,classified_bug,https://github.com/gemrb/gemrb/issues/744
+pokeclicker/pokeclicker,1049,[BUG] Quest Menu Missing ,bug,classified_bug,https://github.com/pokeclicker/pokeclicker/issues/1049
+RMC-14/RMC-14,5855,Marines should be able to extinguish themselves with extinguishers,Issue: Bug; Medium Priority,classified_bug,https://github.com/RMC-14/RMC-14/issues/5855
+kriscris/allstackable,43,Update to 1.19.3 Please,bug,classified_bug,https://github.com/kriscris/allstackable/issues/43
+vcmi/vcmi,3289,Green mesages spam in release version,bug,classified_bug,https://github.com/vcmi/vcmi/issues/3289
+4ian/gdevelop,3388,Images from the previous project still shown after opening a new project,🐛 bug; Need a game/precise steps to reproduce the issue,classified_bug,https://github.com/4ian/gdevelop/issues/3388
+lichess-org/lila,11219,The opponent has run out of time but the loss is credited to me,bug,classified_bug,https://github.com/lichess-org/lila/issues/11219
+momentum-mod/game,1657,Fix/redo/clarify `trigger_teleport` options,Size: Medium,labeled_non_bug,https://github.com/momentum-mod/game/issues/1657
+rptools/maptool,3984,[Feature]: Alias() macro function,feature,labeled_non_bug,https://github.com/rptools/maptool/issues/3984
+triplea-game/triplea,1362,game board disappears on opponent sudden exit,Feature Request,labeled_non_bug,https://github.com/triplea-game/triplea/issues/1362
+lichess-org/lila,1197,Make correspondence games scrollable (scroll to switch between moves),improvement; good first issue,labeled_non_bug,https://github.com/lichess-org/lila/issues/1197
+ppy/osu,24941,Approach circle fade in differs from stable,area:gameplay; priority:1,labeled_non_bug,https://github.com/ppy/osu/issues/24941
+azerothcore/azerothcore-wotlk,1718,Dalaran NPCs address themselves when speaking,Good first issue,labeled_non_bug,https://github.com/azerothcore/azerothcore-wotlk/issues/1718
+gbdev/pandocs,521,Open external links in a new tab,mdbook,labeled_non_bug,https://github.com/gbdev/pandocs/issues/521
+FakeFishGames/Barotrauma,3807,[0.10.505] Heavily painted/dirtied surfaces display grid pattern,Code,labeled_non_bug,https://github.com/FakeFishGames/Barotrauma/issues/3807
+ppy/osu,27546,Argon health bar breaks when undoing a change when the bar height changes,type/behavioural; area:skin-editor,labeled_non_bug,https://github.com/ppy/osu/issues/27546
+piqueserver/piqueserver,222,Support dynamic loading of scripts and gamemodes,enhancement,labeled_non_bug,https://github.com/piqueserver/piqueserver/issues/222
+faforever/server,771,Add broadcasted info updates to RabbitMQ,enhancement,labeled_non_bug,https://github.com/faforever/server/issues/771
+ppy/osu,24478,Rapidly changing changelog listings cause a crash while disconnected from the internet,area:overlay-changelog; type/reliability,labeled_non_bug,https://github.com/ppy/osu/issues/24478
+ggez/ggez,665,Help with using specs render system,question,labeled_non_bug,https://github.com/ggez/ggez/issues/665
+ihhub/fheroes2,41,Make monster parameters to be stored in configuration file,improvement; help wanted,labeled_non_bug,https://github.com/ihhub/fheroes2/issues/41
+robosturm/commander_wars,475,Tile Line,enhancement; fixed/done,labeled_non_bug,https://github.com/robosturm/commander_wars/issues/475
+pixelguys/cubyz,1499,[SBB] Use list + map pattern for storing blueprints and sbbs,refactor,labeled_non_bug,https://github.com/pixelguys/cubyz/issues/1499
+joffrey-bion/seven-wonders,22,UI to show the full board of any player,feature,labeled_non_bug,https://github.com/joffrey-bion/seven-wonders/issues/22
+triplea-game/triplea,2213,6157 - UiThreadingViolationException when switching L&F,Problem,labeled_non_bug,https://github.com/triplea-game/triplea/issues/2213
+endless-sky/endless-sky,4089,On the Navy and Syndicate campaigns: a question about the intros,question,labeled_non_bug,https://github.com/endless-sky/endless-sky/issues/4089
+ryzom/ryzomcore,493,Implement VSync under Linux,enhancement,labeled_non_bug,https://github.com/ryzom/ryzomcore/issues/493
+RMC-14/RMC-14,4064,Hitboxes are wildly inaccurate to their sprites sometimes.,S: Untriaged,labeled_non_bug,https://github.com/RMC-14/RMC-14/issues/4064
+luxtorpeda-dev/packages,2287,Proton - Piccu Engine for Descent 3,package request,labeled_non_bug,https://github.com/luxtorpeda-dev/packages/issues/2287
+angband/angband,3643,Use random names for runes,R: fixed (in v4); T: change,labeled_non_bug,https://github.com/angband/angband/issues/3643
+jacoders/openjk,611,Share more code between SP and MP.,T - Enhancement; A - SP; A - MP,labeled_non_bug,https://github.com/jacoders/openjk/issues/611
+openxray/xray-16,1165,Research if we can update ParticleAPI,Enhancement; Help wanted; Infrastructure; External (3rd party); Think / consider in the future,labeled_non_bug,https://github.com/openxray/xray-16/issues/1165
+tobymao/18xx,7763,1822MX mail contract bug (P15) ,needs triage,labeled_non_bug,https://github.com/tobymao/18xx/issues/7763
+space-wizards/space-station-14,12339,NPC planning should be parallel,S: Untriaged,labeled_non_bug,https://github.com/space-wizards/space-station-14/issues/12339
+endless-sky/endless-sky,2321,Feature request: Guard command key combo,mechanics,labeled_non_bug,https://github.com/endless-sky/endless-sky/issues/2321
+longturn/freeciv21,744,Write a Coder's Tips and Tricks,documentation,labeled_non_bug,https://github.com/longturn/freeciv21/issues/744
+LostArtefacts/TRX,3154,Feature: allow non-standard water exit,Feature; TR2; TR1,labeled_non_bug,https://github.com/LostArtefacts/TRX/issues/3154
+ppy/osu,25644,Can't play old random mode game records in full after updating to 2023.1130.0,priority:0; ruleset/osu!; area:mods,labeled_non_bug,https://github.com/ppy/osu/issues/25644
+pixijs/pixijs,6510,Resizing renderer with resolution greater than one ,Stale; 🛸 X-Files,labeled_non_bug,https://github.com/pixijs/pixijs/issues/6510
+inkyblackness/hacked,18,Add texture usage indicator,enhancement,labeled_non_bug,https://github.com/inkyblackness/hacked/issues/18
+pixelguys/cubyz,393,Make block placing/breaking delay match the player speed,enhancement; ui/ux,labeled_non_bug,https://github.com/pixelguys/cubyz/issues/393
+beammp/beammp-launcher,158,Save the last used date of cached mods,feature,labeled_non_bug,https://github.com/beammp/beammp-launcher/issues/158
+Crownicles/Crownicles,1780,Améliorer les logs pour les fights,enhancement; not end user,labeled_non_bug,https://github.com/Crownicles/Crownicles/issues/1780
+snozbot/fungus,332,Improve display of variables in GetDescription,enhancement,labeled_non_bug,https://github.com/snozbot/fungus/issues/332
+caveman2cosmos/caveman2cosmos,290,Assert: plot improvement progress < 0,help wanted; dll; assert,labeled_non_bug,https://github.com/caveman2cosmos/caveman2cosmos/issues/290
+tmodloader/tmodloader,3813,"Sounds & Music Randomly Cutout during Boss Fights, Very Rare",NEW ISSUE; Requestor-Player,labeled_non_bug,https://github.com/tmodloader/tmodloader/issues/3813
+hajimehoshi/ebiten,1785,ebiten: Confirm functions are really concurrent-safe,wontfix; documentation,labeled_non_bug,https://github.com/hajimehoshi/ebiten/issues/1785
+piqueserver/piqueserver,531,Improve error message when reading invalid bans.txt,enhancement; help wanted; easy,labeled_non_bug,https://github.com/piqueserver/piqueserver/issues/531
+freezingmoon/ancientbeast,929,Dread Knight vs Bogdan Sverediuk,marketing,labeled_non_bug,https://github.com/freezingmoon/ancientbeast/issues/929
+movingblocks/terasology,1892,Combobox drop-down list is cropped by ScrollableArea bounds,Topic: UI/UX; Good First Issue,labeled_non_bug,https://github.com/movingblocks/terasology/issues/1892
+openra/openra,5858,Units/Vehicles footprints,Feature; Tiberian Sun,labeled_non_bug,https://github.com/openra/openra/issues/5858
+LostArtefacts/TRX,1833,[Custom Level] Game freezes with altered Switch animation,Support; TR1,labeled_non_bug,https://github.com/LostArtefacts/TRX/issues/1833
+azerothcore/azerothcore-wotlk,19782,[Quest] Return to Morthis Whisperwing does not show up after No Mere Dream,Confirmed; Quest; Class - Druid; 70,labeled_non_bug,https://github.com/azerothcore/azerothcore-wotlk/issues/19782
+flame-engine/flame,1795,Make images in README point to absolute path instead of relative path,enhancement,labeled_non_bug,https://github.com/flame-engine/flame/issues/1795
+skyarkhangel/hardcore-sk,2005,Сексуальность андроидов.,stale,labeled_non_bug,https://github.com/skyarkhangel/hardcore-sk/issues/2005
+ppy/osu,29677,JuiceStreams show incorrect snapping value,ruleset/osu!catch,labeled_non_bug,https://github.com/ppy/osu/issues/29677
+4ian/gdevelop,7777,"Folders to organize scenes, external events, and external layouts",✨ enhancement,labeled_non_bug,https://github.com/4ian/gdevelop/issues/7777
+lichess-org/lila,644,tournament piece odd mode - like berserk,feature,labeled_non_bug,https://github.com/lichess-org/lila/issues/644
+ocadotechnology/rapid-router,192,Should empty bodies for if and else statements be flagged up?,question,labeled_non_bug,https://github.com/ocadotechnology/rapid-router/issues/192
+ivanperez-keera/dunai,264,Update email address in cabal packages,enhancement; help wanted; hacktoberfest; beginner,labeled_non_bug,https://github.com/ivanperez-keera/dunai/issues/264
+Minecraft-Transit-Railway/Minecraft-Transit-Railway,1284,When can we expect a port to 1.21.1?,question,labeled_non_bug,https://github.com/Minecraft-Transit-Railway/Minecraft-Transit-Railway/issues/1284
+vcmi/vcmi,2552,Show map sizes and # of players for RMG templates,enhancement; rmg,labeled_non_bug,https://github.com/vcmi/vcmi/issues/2552
+hearthsim/hearthstone-deck-tracker,4003,Feature Request: Card Flavor Text on Mouseover (hand),duplicate,labeled_non_bug,https://github.com/hearthsim/hearthstone-deck-tracker/issues/4003
+foucdeg/passe-un-dessin,713,Mode contrôlé pour le récap,P1,labeled_non_bug,https://github.com/foucdeg/passe-un-dessin/issues/713
+flame-engine/flame,1217,Bring mock_canvas and ordered_set into the monorepo,enhancement,labeled_non_bug,https://github.com/flame-engine/flame/issues/1217
+the-tale/the-tale,1445,Карты: карта «прогнать спутника»,type_task; est_simple; comp_cards,labeled_non_bug,https://github.com/the-tale/the-tale/issues/1445
+openra/openra,14080,Map lag,Performance; Question / Support,labeled_non_bug,https://github.com/openra/openra/issues/14080
+nellokudo/osu-winello,219,i have problem with launching osu,question,labeled_non_bug,https://github.com/nellokudo/osu-winello/issues/219
+fredboy/cavedroid,10,Add more mobs,enhancement; near future,labeled_non_bug,https://github.com/fredboy/cavedroid/issues/10
+chickensoft-games/LogicBlocks,35,feat: support Mermaid diagrams by default,enhancement,labeled_non_bug,https://github.com/chickensoft-games/LogicBlocks/issues/35
+space-wizards/space-station-14,23679,Flippo lighter sprite in shadycigs is broken,P2: Raised; Changes: No C#; D3: Low; DB: Beginner Friendly,labeled_non_bug,https://github.com/space-wizards/space-station-14/issues/23679
+FakeFishGames/Barotrauma,9549,Nuclear depth charge has no EMP,Design; Unstable,labeled_non_bug,https://github.com/FakeFishGames/Barotrauma/issues/9549
+aottg-2/aottg-2,96,Graphic Settings,Development Team; Feature; HIGH PRIORITY,labeled_non_bug,https://github.com/aottg-2/aottg-2/issues/96
+effekseer/effekseer,235,Improvement texts and icons about the environment panel (環境パネルの文章とアイコンの改善),enhancement,labeled_non_bug,https://github.com/effekseer/effekseer/issues/235
+the-tale/the-tale,2181,Мастера: список Мастеров,comp_general; type_improvement; cont_usability; est_medium; good first issue,labeled_non_bug,https://github.com/the-tale/the-tale/issues/2181
+etlegacy/etlegacy,496,Replace quake3 style announcer,P4: Low; 💡 Feature; cat: mod CGAME,labeled_non_bug,https://github.com/etlegacy/etlegacy/issues/496
+pioneerspacesim/pioneer,5573,Unable to open save,Savegame bump,labeled_non_bug,https://github.com/pioneerspacesim/pioneer/issues/5573
+ivanperez-keera/dunai,201,Bearriver requires dunai < 0.7,enhancement,labeled_non_bug,https://github.com/ivanperez-keera/dunai/issues/201
+RMC-14/RMC-14,2882,The sprite for a parasite on a marine does not match with the parasite's sprite,Changes: Sprites; Issue: Feature Request,labeled_non_bug,https://github.com/RMC-14/RMC-14/issues/2882
+FakeFishGames/Barotrauma,3569,Sonar ping animation ends prematurely when sonar switched off,Feature request; Code; Low prio,labeled_non_bug,https://github.com/FakeFishGames/Barotrauma/issues/3569
+hearthsim/hearthstone-deck-tracker,3015,[Feature Request] Pity Timer on Open Pack screen.,feature request; plugin?,labeled_non_bug,https://github.com/hearthsim/hearthstone-deck-tracker/issues/3015
+movingblocks/terasology,5104,Snapshot Pre-Revive Status,Category: Doc; Status: Needs Discussion; Revive: Keep,labeled_non_bug,https://github.com/movingblocks/terasology/issues/5104
+lichess-org/lila,5737,Automatically unfollow closed accounts when limit is reached,wanted,labeled_non_bug,https://github.com/lichess-org/lila/issues/5737
+rptools/maptool,4620,[Feature]: Input() Icon to Accept lib:// image assets,feature,labeled_non_bug,https://github.com/rptools/maptool/issues/4620
+mcthesw/game-save-manager,181,[功能/FEATURE]自动备份显示,enhancement,labeled_non_bug,https://github.com/mcthesw/game-save-manager/issues/181
+ZeroK-RTS/Zero-K,3131,Resources optimization,task; backend,labeled_non_bug,https://github.com/ZeroK-RTS/Zero-K/issues/3131
+space-syndicate/space-station-14,1830,Проблема спрайта тыквы.,Changes: Sprites; Size: Very Small,labeled_non_bug,https://github.com/space-syndicate/space-station-14/issues/1830
+loganfairbairn/matlayer,139,There is no tutorial series for MatLayer 2+.,wontfix,labeled_non_bug,https://github.com/loganfairbairn/matlayer/issues/139
+the-tale/the-tale,2347,"Создание героя: обрабатывать только последнее нажатие на ""найти случайного героя""",comp_general; type_improvement; cont_usability; est_simple; good first issue,labeled_non_bug,https://github.com/the-tale/the-tale/issues/2347
+azerothcore/azerothcore-wotlk,12457,outland smart ai id 18944 do not move on respawn point,61-64,labeled_non_bug,https://github.com/azerothcore/azerothcore-wotlk/issues/12457
+hajimehoshi/ebiten,2960,internal/glfw: update to GLFW v3.3.10,os:linux; os:windows; os:macos; os:freebsd; os:openbsd,labeled_non_bug,https://github.com/hajimehoshi/ebiten/issues/2960
+pioneerspacesim/pioneer,816,TerranLiason - New ship - Adder Mk2,Art,labeled_non_bug,https://github.com/pioneerspacesim/pioneer/issues/816
+ppy/osu,5538,Dragging the end anchor point to the start of the slider causes a crash ,priority:0; ruleset/osu!; area:editor,labeled_non_bug,https://github.com/ppy/osu/issues/5538
+warzone2100/warzone2100,1426,Transition more of the savegame format / loading to .json,help wanted,labeled_non_bug,https://github.com/warzone2100/warzone2100/issues/1426
+fabiangreffrath/woof,2058,[feature] implement multithreaded renderrer,rendering,labeled_non_bug,https://github.com/fabiangreffrath/woof/issues/2058
+opengaming/osgameclones,2228,Add official Quake 2 repos,game-addition,labeled_non_bug,https://github.com/opengaming/osgameclones/issues/2228
+wolvenkit/wolvenkit,2512,Can we have rig info exported with .Anims as glTF extras?,enhancement,labeled_non_bug,https://github.com/wolvenkit/wolvenkit/issues/2512
+azerothcore/azerothcore-wotlk,6512,(Spells): No pushback from certain spells,Invalid-MissingHash/Commit/NotAC,labeled_non_bug,https://github.com/azerothcore/azerothcore-wotlk/issues/6512
+lichess-org/lila,8390,write racer FAQ,non technical,labeled_non_bug,https://github.com/lichess-org/lila/issues/8390
+pokeclicker/pokeclicker,5690,[SUGGESTION]: Strengthening Custap XP Aura,suggestion,labeled_non_bug,https://github.com/pokeclicker/pokeclicker/issues/5690
+provenance-emu/provenance,1771,"Fix NSInternalInconsistencyException: Attempted to scroll the collection view to an out-of-bounds item (0) when there are only 0 items in section 0. Collection view: <UICollectionView: 0x1108c1000; frame = (0 0; 1080 688); clipsToBounds = YES; autoresize = W+H; gestureRecognizers = <NSArray: 0x282e94ae0>; layer = <CALayer: 0x2820e8320>; contentOffset: {0, 0}; contentSize: {1080, 40}; adjustedContentInset: {0, 0, 0, 0}; layout: <Provenance.PVGameLibraryCollectionFlowLayout: 0x10942a5a0>; dataSource: <RxCocoa.RxCollectionViewDataSourceProxy: 0x2804f2880>>. in Provenance.PVGameLibraryViewController.(select in _6D32ECB63D455EE34BDBCE5DBAFE946B)(Foundation.IndexPath?) -> () (PVGameLibraryViewController.swift:1947)",app center,labeled_non_bug,https://github.com/provenance-emu/provenance/issues/1771
+Crownicles/Crownicles,2705,inverser les arguments dans la signature de PacketListenerCallbackClient,refactoring,labeled_non_bug,https://github.com/Crownicles/Crownicles/issues/2705
+RMC-14/RMC-14,303,Spitter sprites,Issue: Feature Request,labeled_non_bug,https://github.com/RMC-14/RMC-14/issues/303
+ho-dev/HattrickOrganizer,1199,[FEATURE]  Numeric Values in Statistic tab,status: needs test,labeled_non_bug,https://github.com/ho-dev/HattrickOrganizer/issues/1199
+pixijs/pixijs,6728,Breaking changes after 5.2.4 -> 5.3.0 update,Stale,labeled_non_bug,https://github.com/pixijs/pixijs/issues/6728
+cozuya/secret-hitler,1607,AEM freeze issue,wontfix,labeled_non_bug,https://github.com/cozuya/secret-hitler/issues/1607
+movingblocks/terasology,1466,Support different water levels in a world,Topic: Rendering,labeled_non_bug,https://github.com/movingblocks/terasology/issues/1466

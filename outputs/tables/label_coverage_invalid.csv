@@ -1,0 +1,69 @@
+﻿norm,n,bug,invalid
+duplicate,2715,False,True
+wontfix,1867,False,True
+invalid,1437,False,True
+invalid-missinghash/commit/notac,395,False,True
+can't reproduce,382,False,True
+not a bug,297,False,True
+invalid-duplicate,170,False,True
+invalid-intended/wontfix/blizzlike,168,False,True
+r: wontfix,130,False,True
+invalid-can't reproduce,129,False,True
+invalid-missing information,124,False,True
+duplicated,108,False,True
+cannot reproduce,104,False,True
+status:invalid,97,False,True
+r: worksforme,90,False,True
+r: invalid,88,False,True
+won't fix,87,False,True
+r: duplicate,83,False,True
+outcome: duplicate,78,False,True
+not a bug / invalid,76,False,True
+status:works for me,42,False,True
+outcome: wontfix,41,False,True
+this is a feature :) not really a bug,40,False,True
+v - invalid,39,False,True
+s:duplicate,39,False,True
+status:won't fix,33,False,True
+fixed or duplicate,32,False,True
+reso: duplicate,24,False,True
+reso: won't fix,23,False,True
+reso: can't reproduce,22,False,True
+v - won't fix,21,False,True
+outcome: invalid,21,False,True
+resolution: invalid,21,False,True
+status: invalid,20,False,True
+status: wontfix,20,False,True
+status:duplicate,19,False,True
+v - duplicate,19,False,True
+potential-duplicate,16,False,True
+not reproducible,15,False,True
+resolution-wontfix,13,False,True
+reso: invalid,12,False,True
+closed: won't fix,10,False,True
+won't fix :-(,10,False,True
+resolution: wontfix,10,False,True
+wont fix,9,False,True
+resolution-duplicate,8,False,True
+works as intended,8,False,True
+status: duplicate,7,False,True
+status: cannot reproduce,6,False,True
+kind: wontfix,5,False,True
+wont fix/do,5,False,True
+unreproducible,4,False,True
+duplicate-status,4,False,True
+wontfixnow,3,False,True
+resolution-invalid,3,False,True
+status-wontfix,3,False,True
+invalid-status,3,False,True
+invalid 🚫,2,False,True
+priority: won't fix,2,False,True
+wontfix-status,2,False,True
+wontfix 😢,1,False,True
+closed: duplicate,1,False,True
+close: wontfix,1,False,True
+close: invalid,1,False,True
+invalid or external issue,1,False,True
+status: won't fix,1,False,True
+status: not a bug,1,False,True
+not reproducible 🕵️‍♂️,1,False,True
